@@ -1,5 +1,6 @@
 - Name: CommunalCutscenes
   Version: 1.0.0
+  DLL: src/bin/Debug/net452/CommunalCutscenes.dll
   Dependencies:
     - Name: Everest
       Version: 1.2797.0
